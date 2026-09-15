@@ -1,10 +1,10 @@
-MughlaiFood.com — Odinship-style premium domain landing page
+MughlaiFood.com — Odinship-style premium domain sales website
 
+Upload all files in this folder to the ROOT of your GitHub Pages repository.
 Files:
-- index.html — complete responsive website
-- robots.txt — Google crawl rules
-- sitemap.xml — XML sitemap
-- CNAME — custom domain for GitHub Pages
+- index.html
+- CNAME
+- robots.txt
+- sitemap.xml
 
-The Buy Now buttons open the MughlaiFood.com Sedo domain page.
-Upload all files to the root of the GitHub repository.
+The layout is based directly on the same clean full-screen structure as the supplied OdinShip website, adapted only for MughlaiFood.com.
